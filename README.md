@@ -75,3 +75,4 @@ Common reference points:
 * [5G network reference point architecture](https://www.rfwireless-world.com/Terminology/5G-network-reference-point-architecture.html)
 * [Architecture](https://www.grandmetric.com/2017/06/05/5g-core-network-a-short-overview/)
 * [MPIRICAL Dictionary](https://www.mpirical.com/glossary/amf-core-access-and-mobility-management-function)
+* [Official 5G Map Deployment](https://www.speedtest.net/ookla-5g-map)
