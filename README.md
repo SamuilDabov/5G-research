@@ -50,3 +50,4 @@ Simplified before transmitting:
 * [Self-driving car](https://en.wikipedia.org/wiki/Self-driving_car)
 * [China’s AI attorney claims to prosecute crimes ‘with 97% accuracy’](https://nypost.com/2021/12/27/chinas-ai-attorney-prosecutes-crimes-with-97-accuracy/)
 * [BostonDynamics](https://www.bostondynamics.com/)
+* [5G network reference point architecture](https://www.rfwireless-world.com/Terminology/5G-network-reference-point-architecture.html)
