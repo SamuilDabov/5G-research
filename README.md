@@ -24,6 +24,27 @@ Simplified before transmitting:
 * The **Critical infrastructure** (referred to emergency services, electricity, water supply, etc.) is observed by a governments world wide.
 
 
+# Interfaces
+
+| Reference Point | Description |
+--- | --- |
+| N1 | Between UE and AMF (Access and Mobility Management Function) |
+| N2|  Between RAN (Radio Access Network) or gNB (i.e. 5G base station) and AMF |
+| N3 | Between RAN or gNB (i.e. 5G base station) and UPF (User Plane Function)  |
+| N4 | Between SMF (Session Management Function) and UPF  |
+| N5 | Between PCF (Policy Control Function) and AF (Application Function). |
+| N6 | Between UPF and DN (Data Network) |
+| N7 | NG7 is reference point between SMF and PCF. NG7r is reference point between vPCF and hPCF. |
+| N8 | Between Unified Data Management (UDM) and AMF. |
+| N9 | Between two core UPFs. |
+| N10 | Reference point between UDM and SMF. |
+| N11 | Between SMF and SMF. |
+| N12 | Between AMF and AUSF (Authentication Server Function). |
+| N13 | Between UDM and AUSF. |
+| N14 | Between two AMFs. |
+| N15 | Between PCF and AMF (in Non-roaming scenario) / Between V-PCF and AMF (in Roaming scenario) |
+| N16 | Between two SMFs (Roaming between V-SMF and H-SMF) | 
+
 # References
 
 * [Self-driving car](https://en.wikipedia.org/wiki/Self-driving_car)
