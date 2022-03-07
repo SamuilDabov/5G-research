@@ -25,6 +25,8 @@ Simplified before transmitting:
 
 # Simplified Architecture
 
+![Untitled Diagram drawio](https://user-images.githubusercontent.com/101095778/157032513-8401abc0-f183-44ca-9add-652cbaf12b02.png)
+
 
 # Interfaces
 **Common reference points:**
