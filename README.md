@@ -23,8 +23,11 @@ Simplified before transmitting:
 * MNOs stand on 3GPP outlined standards and agreement to achieve what is referred as *roaming*. 
 * The **Critical infrastructure** (referred to emergency services, electricity, water supply, etc.) is observed by a governments world wide.
 
+# Simplified Architecture
+
 
 # Interfaces
+**Common reference points:**
 
 | Reference Point | Description |
 --- | --- |
