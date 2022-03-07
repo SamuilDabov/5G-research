@@ -29,7 +29,24 @@ Simplified before transmitting:
 
 
 # Interfaces
-**Common reference points:**
+Interfaces used in 5G:
+
+| Interface | Description |
+--- | --- |
+| UE | The UMTS Subscriber or UE (User Equipment) is a combination of ME (Mobile Equipment) and SIM / USIM (Subscriber Identity Module / UMTS Subscriber Identity Module). |
+| R(AN) | The Radio Access Network performs the radio functionality of the network, as well as providing the connection to the CN (Core Network). The RAN typically includes a controller ( RNC (Radio Network Controller) in 3GPP (Third Generation Partnership Project) and BSC (Base Station Controller) in 3GPP2 (Third Generation Partnership Project 2)) and several transmitter/receivers ( Node B in 3GPP, BTS (Base Transceiver Station) in 3GPP2).|
+| UPF | The User Plane Function is related to the 3GPP 5G Architecture. It is similar to the roles played by the Serving/Packet Gateway in a 4G LTE system. The UPF supports features and capabilities to facilitate user plane operation. Examples include: packet routing and forwarding, interconnection to the Data Network, policy enforcement and data buffering.|
+| DN | The Data Network is related to the 3GPP 5G Architecture. It identifies Service Provider services, Internet access or 3rd party services.|
+| AMF | The Core Access and Mobility Management Function is part of the 3GPP 5G Architecture. Its primary tasks include: Registration Management, Connection Management, Reachability Management, Mobility Management and various function relating to security and access management and authorization.|
+| SMF | The Session Management Function is related to the 3GPP 5G Architecture and is one of the main functions in the Next Generation Core. As such, it includes various functionality relating to subscriber sessions, e.g. session establishment, modify and release.|
+| PCF | The Policy Control function is related to the 3GPP 5G Architecture. This function supports the unified policy framework that governs network behaviour. In so doing, it provides policy rules to control plane function(s) to enforce them. In order to facilitate this the subscription information is gathered from the Unified Data Management function.|
+| AF | The AF is a logical element of the 3GPP PCC framework which provides session related information to the PCRF in support of PCC rule generation.|
+| AUSF | The Authentication Server Function is part of the 3GPP 5G Architecture. It is used to facilitate 5G security processes. |
+| UDM | The Unified Data Management is related to the 3GPP 5G Architecture. This supports the ARPF (Authentication Credential Repository and Processing Function) and stores the long-term security credentials used in authentication for AKA. In addition, it stores subscription information.|
+
+> Generally UDR can also be implemented as processing power can be increased due to Edge Computing.
+
+Common reference points:
 
 | Reference Point | Description |
 --- | --- |
@@ -48,7 +65,7 @@ Simplified before transmitting:
 | N13 | Between UDM and AUSF. |
 | N14 | Between two AMFs. |
 | N15 | Between PCF and AMF (in Non-roaming scenario) / Between V-PCF and AMF (in Roaming scenario) |
-| N16 | Between two SMFs (Roaming between V-SMF and H-SMF) | 
+
 
 # References
 
@@ -57,3 +74,4 @@ Simplified before transmitting:
 * [BostonDynamics](https://www.bostondynamics.com/)
 * [5G network reference point architecture](https://www.rfwireless-world.com/Terminology/5G-network-reference-point-architecture.html)
 * [Architecture](https://www.grandmetric.com/2017/06/05/5g-core-network-a-short-overview/)
+* [MPIRICAL Dictionary](https://www.mpirical.com/glossary/amf-core-access-and-mobility-management-function)
