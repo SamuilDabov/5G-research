@@ -85,3 +85,4 @@ Setting on the pillar of the 5G definition for URLLC, one should consider moving
 * [Official 5G Map Deployment](https://www.speedtest.net/ookla-5g-map)
 * [Harmonized ITU IMT-2020 Standards of 3GPP 5G Technologies Lay The Foundation for a Successful Global Ecosystem](https://www.delloro.com/knowledge-center/white-papers/harmonized-itu-imt-2020-standards-of-3gpp-5g-technologies-lay-the-foundation-for-a-successful-global-ecosystem/)
 * [[Seminar] August 14, 2019 – Artem Krasilov – Ultra-reliable low-latency communications in 5G systems](http://wireless.iitp.ru/wnl-seminar-ultra-reliable-low-latency-communications-in-5g-systems/)
+* [Why is there no Tracking Area Update procedure in 5G?](https://apistraining.com/tracking-area-5g/)
