@@ -73,6 +73,12 @@ URLLC is one of the three facets of 5G, alongside MMTC (Massive Machine Type Com
 ## Perspective:
 Setting on the pillar of the 5G definition for URLLC, one should consider moving object before implementing the 3GPP specification and architecture into a system. 
 
+## Simplified:
+
+![Screenshot_2022-04-30-21-20-17-018_com miui securitycenter](https://user-images.githubusercontent.com/101095778/166117845-115e7440-f2b8-454f-bc3b-d52a4ed62147.jpg)
+
+
+
 
 # References
 
