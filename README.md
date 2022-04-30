@@ -77,6 +77,12 @@ Setting on the pillar of the 5G definition for URLLC, one should consider moving
 
 ![Screenshot_2022-04-30-21-20-17-018_com miui securitycenter](https://user-images.githubusercontent.com/101095778/166117845-115e7440-f2b8-454f-bc3b-d52a4ed62147.jpg)
 
+Imagine that a walk in the park is taken while listening to Spotify with the following settings. What will happened is that in minute 5 the music may stop. To prevent the stop an alarm timer can be set to *wake-up* the device and reload the music. 
+
+How this apply to URLLC? By having a pre-loaded route based on known tracking areas such timer can potentially be calculated per logistics shipment pattern and calculated based on the anthena's cover dimension mapping. As such this approach may increase battery stability, increase density and work towards AI optimization for drivers. 
+
+Having also the ability to have the Mobility Patern at hand will provide seamlessly connectivity. 
+
 
 
 
