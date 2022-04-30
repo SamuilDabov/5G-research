@@ -70,6 +70,9 @@ Common reference points:
 ## Concept: 
 URLLC is one of the three facets of 5G, alongside MMTC (Massive Machine Type Communication) and eMBB (enhanced Mobile Broadband). In particular, URLLC features two parts; ultra-reliability which constitutes network reliability of beyond 99.999%, coupled with very low latency for packet transmission (in the order of 1ms and below). Note that the two are mutually exclusive in that some services will require both ultra-reliability and low latency, whereas other services may require one or the other.
 
+## Perspective:
+Setting on the pillar of the 5G definition for URLLC, one should consider moving object before implementing the 3GPP specification and architecture into a system. 
+
 
 # References
 
