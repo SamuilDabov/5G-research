@@ -76,3 +76,5 @@ Common reference points:
 * [Architecture](https://www.grandmetric.com/2017/06/05/5g-core-network-a-short-overview/)
 * [MPIRICAL Dictionary](https://www.mpirical.com/glossary/amf-core-access-and-mobility-management-function)
 * [Official 5G Map Deployment](https://www.speedtest.net/ookla-5g-map)
+* [Harmonized ITU IMT-2020 Standards of 3GPP 5G Technologies Lay The Foundation for a Successful Global Ecosystem](https://www.delloro.com/knowledge-center/white-papers/harmonized-itu-imt-2020-standards-of-3gpp-5g-technologies-lay-the-foundation-for-a-successful-global-ecosystem/)
+* [[Seminar] August 14, 2019 – Artem Krasilov – Ultra-reliable low-latency communications in 5G systems](http://wireless.iitp.ru/wnl-seminar-ultra-reliable-low-latency-communications-in-5g-systems/)
