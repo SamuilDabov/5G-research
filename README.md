@@ -97,3 +97,4 @@ Setting on the pillar of the 5G definition for URLLC, one should consider moving
 * [5G & 4G Coverage map](https://www.t-mobile.com/coverage/coverage-map)
 * [CellTower Locator](http://www.cell2gps.com/)
 * [Learning-Based Tracking Area List Management in 4G and 5G Networks](https://ieeexplore.ieee.org/document/8706674)
+* [Google areas & navigate offline](https://support.google.com/maps/answer/6291838?hl=en&co=GENIE.Platform%3DAndroid)
